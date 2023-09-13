@@ -40,6 +40,7 @@ The input data includes 3 information tables about Orders, Returns and People, l
 
  - Step 1: Determine Dashboard goal, clean dataset and create data model (Star schema)
  
+![Screenshot 2023-09-13 220439](https://github.com/dieppnguyen/Superstore-Sales/assets/142650906/ee33e616-29b6-4e9a-b1bd-529ef759b67c)
 
 
  - Step 2: List important questions you want answered through the dashboard.
@@ -58,7 +59,7 @@ The input data includes 3 information tables about Orders, Returns and People, l
 
  ## Results
 
- [Here](https://drive.google.com/file/d/1HaeVhhMCxX3HTGT4z2HJdlkK8QIp2vmH/view?usp=sharing) is a URL where you may get this report if it interests you. Thank you for reading this far!
+ [Here](https://drive.google.com/file/d/1HaeVhhMCxX3HTGT4z2HJdlkK8QIp2vmH/view?usp=sharing) is a URL where you may download this report if it interests you. Thank you for reading this far!
 
 
  
